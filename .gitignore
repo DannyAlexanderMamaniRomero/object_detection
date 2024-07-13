@@ -1,0 +1,3 @@
+# ignore app configuration
+venv/*
+yolov5s.pt
